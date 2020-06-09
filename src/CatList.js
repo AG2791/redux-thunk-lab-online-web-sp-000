@@ -15,4 +15,4 @@ class CatList extends React.Component {
   }
 }
 
-export default CatList;
+export default CatList
